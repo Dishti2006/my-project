@@ -2,6 +2,8 @@
 
 int main()
 {
- printf("Hello World! This is Geeksforgeeks.org")
+ printf("Hello World! This is Geeksforgeeks.org");
+ printf("My name is Dishti \n");
+ printf("I am study in apshah college and it is college exp);   
  return 0 ;
 } 
